@@ -1,7 +1,7 @@
 # Independant-Project-2
 
 ## Link to webpage ##
-https://andrethefirst.github.io/Independant-Project-2/
+https://github.com/andrethefirst/independant-project-2
 
 #### _This is a webpage for Epicodus that has a quiz that will show you what coding language you should consider learning!_
 
