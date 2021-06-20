@@ -1,4 +1,4 @@
-$(document).ready(function); {
+$(document).ready(function() {
   $("form#questions").submit(function(event) {
     const answerone = $("select#question-one").val();
     const answertwo = $("select#question-two").val();
@@ -10,7 +10,7 @@ $(document).ready(function); {
     const resulttwo = ("JavaScript");
     const resultthree = ("Python");
 
-    let finalresult = "Ruby";
+    let finalresult = ("Ruby");
 
     if (answerone === fire && answertwo === mouse && answerthree === lefty && answerfour === gpu && answerfive === month);
     else {
@@ -49,6 +49,6 @@ $(document).ready(function); {
     $("#result").text();
     $("finalresult").show();
     
-    event.preventDefault();
+  event.preventDefault();
   });
-};
+});
